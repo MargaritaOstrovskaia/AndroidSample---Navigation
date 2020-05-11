@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleViewPager</string>
+
+    <string name="fragment_1">Cat</string>
+    <string name="fragment_2">Dog</string>
+    <string name="fragment_3">Other</string>
+</resources>
