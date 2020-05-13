@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample Navigation Graph</string>
+
+    <string name="title_simba">Simba</string>
+    <string name="title_timon">Timon</string>
+    <string name="title_pumbaa">Pumbaa</string>
+</resources>
