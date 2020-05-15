@@ -31,7 +31,7 @@ public class PumbaaFragment extends Fragment {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                NavController navController = Navigation.findNavController(getActivity(), R.id.my_nav_host_fragment);
+                NavController navController = Navigation.findNavController(getActivity(), R.id.nav_host_fragment);
                 navController.navigate(R.id.action_Pumbaa_to_Simba);
             }
         });
